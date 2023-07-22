@@ -11,5 +11,8 @@
     "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
   },
   "author": "tmrdtv",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
 }
